@@ -38,8 +38,8 @@ The objectives of this project include:
 ## **Results**
 - A fully completed osTicket system capable of handling end-user tickets and resolving them like real-life scenarios.
 
-## **Screenshots Results**
-*Below are screenshots of one scenario that illustrates an emergency where end users fail to access resources. Other scenarios can be created as well*
+## **Results with Screenshots**
+*Below are screenshots of one scenario that illustrates an emergency where end users fail to access resources. Scroll further for other common scenarios*
 <p>End user created and submitted a ticket</p> 
 <div align="center"> <img src="https://github.com/user-attachments/assets/ceeb9046-ee53-496b-ad1f-717ec53fb1d5" alt="image" style="max-width:100%; height:auto;"/> 
 </div> 
